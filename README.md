@@ -1,7 +1,7 @@
 # ML-MODEL-DEPLOYMENT-USING-FLASK
 This repository contains a machine learning model deployed using Flask. The project includes a simple web API that allows users to send input data and receive model predictions. Flask is used as the backend framework to serve the model, making it easy to integrate with other applications.
 
-Features:
+#######    Features:
 
 Flask-based API for model inference
 
@@ -12,7 +12,8 @@ Returns predictions in real-time
 Easy to deploy on local or cloud servers
 
 
-How to Run:
+#######     How to Run:
+
 Clone the repository
 
 Install dependencies: pip install -r requirements.txt
